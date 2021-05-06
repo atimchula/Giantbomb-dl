@@ -7,4 +7,4 @@ Put it in a directory where you want your Giantbomb videos stored
 
 Node.js must be installed as well on the machine. 
 
-After that, download the template you want, and put it in a folder with the show name, and run it.
+After that, download the template you want, and put it in a folder with the show name, update the script with your API key, and run it.
