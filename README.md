@@ -17,3 +17,4 @@ After that follow these steps:
 7. type ls to verify that you are in the correct folder
 8. run command "npx [filename of script] (example: npx "Persona 4 Endurance Run.js")
 9. wait for it to finish
+10. Verify it downloaded all the files, if it doesn't you might need to download the missing ones manually.
