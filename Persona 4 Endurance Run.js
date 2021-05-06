@@ -2,7 +2,7 @@
   mass-alex.js
   Description: The script below will download all the current episodes in the Mass Alex show.
   Required: Node
-  How to Run: `node mass-alex.js`
+  How to Run: `npx mass-alex.js`
 */
 
 /*
