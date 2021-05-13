@@ -5,7 +5,7 @@ First follow instructions to download and install https://github.com/lightpohl/g
 
 Put it in a directory where you want your Giantbomb videos stored
 
-Node.js must be installed as well on the machine. 
+Node.js must be installed as well on the machine. https://nodejs.org/en/
 
 After that follow these steps:
 1. Create a folder with your show name
