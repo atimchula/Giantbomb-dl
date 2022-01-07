@@ -13,7 +13,7 @@
 let execSync = require("child_process").execSync;
 
 // Replace `YOUR_API_KEY` with the key from https://www.giantbomb.com/api
-let apiKey = "0fa6a1a2734ccfac3bd8d0b1e1b7e41864512caa";
+let apiKey = "YOUR API KEY HERE";
 
 /*
   Finding the `endingEpisode` is a little tricky if there are multiple seasons
